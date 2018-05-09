@@ -1,0 +1,6 @@
+[submodule "Carthage/Checkouts/CocoaLumberjack"]
+	path = Carthage/Checkouts/CocoaLumberjack
+	url = https://github.com/CocoaLumberjack/CocoaLumberjack.git
+[submodule "Carthage/Checkouts/MagicalRecord"]
+	path = Carthage/Checkouts/MagicalRecord
+	url = https://github.com/MagicalPanda/MagicalRecord.git
